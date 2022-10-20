@@ -4,7 +4,7 @@
 
 
 ## 1. Intro to CS (Python)
-* Weeks 1-3
+* [Weeks 1-3](https://github.com/KevinAugustine99/Weeks1-3)
   * My first introduction to computer science
   * Learned variables and functions
 * 
