@@ -19,5 +19,7 @@
 ## 2. Intro to CS (Java)
 * [Project 1](https://github.com/KevinAugustine99/CSII-Project1)
   * Calculus interpreter
-  * Best Example of Polymorphism
-* 
+  * Uses Polymorphism
+* [Project 2](https://github.com/KevinAugustine99/CSII-Project2)
+  * Whack a Mole Game
+  * Uses Networking, GUIs, and Multithreading
